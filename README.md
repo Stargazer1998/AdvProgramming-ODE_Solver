@@ -35,8 +35,7 @@ $ ./ExplicitSolver
 3. Expilicit Runge-Kutta
 
 ### CLASSES
-
-![alt text](https://imgyukle.com/f/2022/01/13/occG1H.jpg)
+![alt text](https://i.ibb.co/Fnqf0k7/Whats-App-Image-2022-04-17-at-10-20-08-AM.jpg)
 
 #### ExpSolvers
 
